@@ -42,8 +42,8 @@ callbacks.Register("Draw", function()
     -- do not edit above
 
     local divider = ' | ';
-    local cheatName = 'aimware.net';
-    local userName = 'SamzSakerz';
+    local cheatName = 'astral.ml';
+    local userName = '1.0.4';
 
     -- Do not edit below
     local delay;
